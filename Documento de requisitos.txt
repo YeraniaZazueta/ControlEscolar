@@ -1,6 +1,7 @@
 Documento de Requisitos v1.0
 _________________________________________________
 
+
 Requisitos funcionaes:
 
 RF001: El sistema debe permitir el registro de alumnos
