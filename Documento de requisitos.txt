@@ -1,7 +1,6 @@
 Documento de Requisitos v1.0
 _________________________________________________
 
-
 Requisitos funcionaes:
 
 RF001: El sistema debe permitir el registro de alumnos
@@ -27,8 +26,34 @@ CU001: Registrar alumnos
 CU002: Imprimir Kardex
 
 CU003: Cargar Materiales
+
 __________________________________________________
 Concluciones
 
 C001: Este sistema sirve para gestionar los serevicios 
 del departamento.
+______________________________________________________
+______________________________________________________
+
+Nueva Seccion
+_____________________________________________
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
