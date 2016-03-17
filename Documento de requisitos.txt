@@ -27,3 +27,7 @@ CU002: Imprimir Kardex
 
 CU003: Cargar Materiales
 __________________________________________________
+Concluciones
+
+C001: Este sistema sirve para gestionar los serevicios 
+del departamento.
